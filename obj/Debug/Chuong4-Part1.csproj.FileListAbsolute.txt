@@ -1,0 +1,11 @@
+C:\Users\HELLO\source\repos\Chuong4-Part1\Chuong4-Part1\bin\Debug\Chuong4-Part1.exe.config
+C:\Users\HELLO\source\repos\Chuong4-Part1\Chuong4-Part1\bin\Debug\Chuong4-Part1.exe
+C:\Users\HELLO\source\repos\Chuong4-Part1\Chuong4-Part1\bin\Debug\Chuong4-Part1.pdb
+C:\Users\HELLO\source\repos\Chuong4-Part1\Chuong4-Part1\obj\Debug\Chuong4-Part1.csprojAssemblyReference.cache
+C:\Users\HELLO\source\repos\Chuong4-Part1\Chuong4-Part1\obj\Debug\Chuong4_Part1.Form1.resources
+C:\Users\HELLO\source\repos\Chuong4-Part1\Chuong4-Part1\obj\Debug\Chuong4_Part1.FrmTinhTong.resources
+C:\Users\HELLO\source\repos\Chuong4-Part1\Chuong4-Part1\obj\Debug\Chuong4_Part1.Properties.Resources.resources
+C:\Users\HELLO\source\repos\Chuong4-Part1\Chuong4-Part1\obj\Debug\Chuong4-Part1.csproj.GenerateResource.cache
+C:\Users\HELLO\source\repos\Chuong4-Part1\Chuong4-Part1\obj\Debug\Chuong4-Part1.csproj.CoreCompileInputs.cache
+C:\Users\HELLO\source\repos\Chuong4-Part1\Chuong4-Part1\obj\Debug\Chuong4-Part1.exe
+C:\Users\HELLO\source\repos\Chuong4-Part1\Chuong4-Part1\obj\Debug\Chuong4-Part1.pdb
